@@ -1,1 +1,200 @@
-# Summer_Internship
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>webgapp</title>
+<link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+<style>
+li{
+    list-style:none;
+margin-left:50px;
+margin-top:-20px;
+align-items:centre;
+font-family:verdana;
+font-size:16px;
+}
+ul {
+  
+display:flex;
+justify-content:centre;
+align-items:centre; 
+padding: 34px;
+background-color: aqua;
+ 
+}
+
+</style>
+</head>
+<body>
+<div>
+<nav>
+<ul>
+<li>My account</li>
+<li>Buy here</li>
+<li>your cart</li>
+</ul>
+ </nav>
+         
+
+</div>
+<div style="color:blue";>
+<h1>VIRTUE</h1>
+<p style="margin-top: -28px;
+    margin-left: 23px;">PREMIUM<p>
+
+</div>
+<div style="display: flex;
+    margin-left: 277px;
+    margin-top: -70px;
+    align-items: center;
+    justify-content: space-between;">
+<p>home</p>
+<p>portfolio</p>
+<p>contact us</p>
+<p>features</p>
+<p>blog</p>
+<p>shop</p>
+</div>
+<div>
+<h1>Portfolio</h1>
+<h6 style="    margin-top: -47px;
+    margin-left: 966px;">home>portfolio</h6>
+
+</div>
+<u>_________________________________________________________________________________________________________________________________________________________________________________________________</u>
+<div style="display: flex;
+    margin-left: 277px;
+    margin-top: 2px;
+    
+    justify-content: end;">
+<p style="margin-left:127px;">all</p>
+<p style="margin-left:127px;">design</p>
+<p style="margin-left:127px;">photography</p>
+<p style="margin-left:127px;">video</p>
+</div>
+<nav>
+<div style="display: inline-flex;justify-content: space-between;margin-top: 32px;margin-left:142px;">
+<div style="margin-left:-118px";>
+<img src="E:/book.jpg" width=270px height=180px>
+</div>
+<div style="margin-left:100px";>
+<img src="E:/bcard.jpg" width=270px height=180px>
+</div>
+<div style="margin-left:95px";>
+<img src="E:/bcard2.jpg" width=270px height=180px>
+</div>
+</div>
+
+
+<div style="display: inline-flex;justify-content: space-between;margin-top: 32px;margin-left:142px;">
+<div style="margin-left:-118px";>
+<img src="E:/port1.jpg">
+</div>
+<div style="margin-left:100px";>
+<img src="E:/port2.jpg" width=270px height=180px> 
+</div>
+<div style="margin-left:95px";>
+<img src="E:/port3.jpg" width=270px height=180px>
+</div>
+</div>
+<div style="display: inline-flex;justify-content: space-between;margin-top: 32px;margin-left:142px;">
+<div style="margin-left:-118px";>
+<img src="E:/port5.jpg" width=270px height=180px >
+</div>
+<div style="margin-left:100px";>
+<img src="E:/port4.jpg" width=270px height=180px >
+</div>
+<div style="margin-left:95px";>
+<img src="E:/port6.jpg" width=270px height=180px >
+</div>
+</div>
+</nav>
+<div style="padding: -5px;
+    background-color: antiquewhite;
+">
+<div style="margin-left: -3px;
+    width: 256px;">
+<h5>Virtue Theme</h5>
+<p>Duis iaculls pretium fermentum,Duls at placerat lacus,non lutus dul,Nunc vel enlm eu eros cibgye lo-aoreet.Nunc mollis dul sed consequat cursus.Nam vel nulla mi.Duis fringilla leo blandit augue cursus iaculis.</p>
+</div>
+<div style="margin-left: 283px;
+    margin-top: -167px;
+">
+<h4>SOCIAL</h4>
+<p>contact us</p>
+<p>444-555-9999</p>
+<p>info@kadencethemes.com</p>
+</div>
+<div style="margin-left: 610px;
+    margin-top: -149px;">
+<p>Recent projects</p>
+<nav>
+<div style="display: inline-flex;justify-content: space-between;margin-top: -8px;margin-left:91px;">
+<div style="margin-left:-118px";>
+<img src="E:/book.jpg" width=50px height=50px>
+</div>
+<div style="margin-left:18px";>
+<img src="E:/bcard.jpg" width=50px height=50px>
+</div>
+<div style="margin-left:17px";>
+<img src="E:/bcard2.jpg" width=50px height=50px>
+</div>
+</div>
+</nav>
+<nav>
+
+<div style="display: inline-flex;justify-content: space-between;margin-top: -8px;margin-left:91px;">
+<div style="margin-left:-118px";>
+<img src="E:/port1.jpg" width=50px height=50px>
+</div>
+<div style="margin-left:18px";>
+<img src="E:/port2.jpg" width=50px height=50px>
+</div>
+<div style="margin-left:17px";>
+<img src="E:/port3.jpg" width=50px height=50px>
+</div>
+</div>
+</nav>
+<div style="display: inline-flex;justify-content: space-between;margin-top: -8px;margin-left:91px;">
+<div style="margin-left:-118px";>
+<img src="E:/port4.jpg" width=50px height=50px>
+</div>
+<div style="margin-left:18px";>
+<img src="E:/port5.jpg" width=50px height=50px>
+</div>
+<div style="margin-left:17px";>
+<img src="E:/port6.jpg" width=50px height=50px>
+</div>
+</div>
+</nav>
+<div style="margin-top: -190px;
+    margin-left: 252px;
+">
+<h3>RESOURCES</H3>
+<p>home</p>
+<p>cart</p>
+<p>contact us</p>
+<p>staff</p>
+<p>my account</p>
+</div>
+<div style="margin-left: -610px;
+">
+<p>2016 virtue documentation-wordpress thement by kadence themes</p>
+</div>
+<div style="display: flex;
+    margin-left: 15px;
+    margin-top: -50px;
+    align-items: center;
+    justify-content: space-between;">
+<p>home</p>
+<p>cart</p>
+<p>contact us</p>
+<p>staff</p>
+<p>my account</p>
+</div>
+</div>
+</body>
+
+</html>
